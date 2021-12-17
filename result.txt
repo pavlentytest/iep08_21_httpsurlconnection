@@ -1,0 +1,1 @@
+{"date_range": "Apr 21 - May 20", "current_date": "December 17, 2021", "description": "There's intrigue on the agenda -- but that's your favorite state of affairs. Your dear ones, however, may feel unsettled by the whispers and glances. Help them. It's only fair.", "compatibility": "Leo", "mood": "Busy", "color": "Pink", "lucky_number": "31", "lucky_time": "9am"}
